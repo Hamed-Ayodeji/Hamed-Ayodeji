@@ -15,10 +15,10 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamed-altschool&show_icons=true&include_all_commits=true&hide_border=true" alt="Hamed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-altschool&langs_count=8&layout=compact&hide_border=true" alt="Hamed's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamed-Ayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Hamed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Ayodeji&langs_count=8&layout=compact&hide_border=true" alt="Hamed's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!---
-Hamed-altschool/Hamed-altschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hamed-Ayodeji/Hamed-Ayodeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
